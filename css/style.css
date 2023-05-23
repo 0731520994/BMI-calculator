@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+body{
+      
+    background-color:white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 50px;
+    margin-top: 100px;
+}
+
+.container{
+    
+    box-shadow: 4px 4px 20px 20px blue;
+    height: 100%;
+    width: 15rem;
+    padding: 60px;
+    border-radius: 30px;
+    
+  
+   
+}
+
+.input{
+    margin-top: 60px;
+    
+}
+
+
+.weight{
+    margin-top: 10px;
+    
+}
+ 
+.answer{
+    margin-top: 40px;
+    text-decoration: wavy;
+    background-color: blue;
+    text-align:center;
+    font-weight:bold;
+}
+
+
+.result{
+    margin-top: 30px;
+    text-align: center;
+   
+    
+}
+
+
+.clear{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
