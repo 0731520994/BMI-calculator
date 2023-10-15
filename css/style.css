@@ -16,9 +16,9 @@ body{
 
 .container{
     
-    box-shadow: 4px 4px 20px 20px blue;
+    box-shadow: 6px 6px 6px 6px blue;
     height: 100%;
-    width: 15rem;
+    width: 18rem;
     padding: 60px;
     border-radius: 30px;
     
@@ -40,7 +40,7 @@ body{
 .answer{
     margin-top: 40px;
     text-decoration: wavy;
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.582);
     text-align:center;
     font-weight:bold;
 }
@@ -49,6 +49,8 @@ body{
 .result{
     margin-top: 30px;
     text-align: center;
+  
+
    
     
 }
@@ -57,7 +59,6 @@ body{
 .clear{
     margin-top: 10px;
 }
-
 
 
 
